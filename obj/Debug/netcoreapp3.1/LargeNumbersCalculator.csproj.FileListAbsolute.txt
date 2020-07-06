@@ -1,0 +1,13 @@
+C:\Users\beata\source\repos\LargeNumbersCalculator\LargeNumbersCalculator\bin\Debug\netcoreapp3.1\LargeNumbersCalculator.exe
+C:\Users\beata\source\repos\LargeNumbersCalculator\LargeNumbersCalculator\bin\Debug\netcoreapp3.1\LargeNumbersCalculator.deps.json
+C:\Users\beata\source\repos\LargeNumbersCalculator\LargeNumbersCalculator\bin\Debug\netcoreapp3.1\LargeNumbersCalculator.runtimeconfig.json
+C:\Users\beata\source\repos\LargeNumbersCalculator\LargeNumbersCalculator\bin\Debug\netcoreapp3.1\LargeNumbersCalculator.runtimeconfig.dev.json
+C:\Users\beata\source\repos\LargeNumbersCalculator\LargeNumbersCalculator\bin\Debug\netcoreapp3.1\LargeNumbersCalculator.dll
+C:\Users\beata\source\repos\LargeNumbersCalculator\LargeNumbersCalculator\bin\Debug\netcoreapp3.1\LargeNumbersCalculator.pdb
+C:\Users\beata\source\repos\LargeNumbersCalculator\LargeNumbersCalculator\obj\Debug\netcoreapp3.1\LargeNumbersCalculator.AssemblyInfoInputs.cache
+C:\Users\beata\source\repos\LargeNumbersCalculator\LargeNumbersCalculator\obj\Debug\netcoreapp3.1\LargeNumbersCalculator.AssemblyInfo.cs
+C:\Users\beata\source\repos\LargeNumbersCalculator\LargeNumbersCalculator\obj\Debug\netcoreapp3.1\LargeNumbersCalculator.csproj.CoreCompileInputs.cache
+C:\Users\beata\source\repos\LargeNumbersCalculator\LargeNumbersCalculator\obj\Debug\netcoreapp3.1\LargeNumbersCalculator.dll
+C:\Users\beata\source\repos\LargeNumbersCalculator\LargeNumbersCalculator\obj\Debug\netcoreapp3.1\LargeNumbersCalculator.pdb
+C:\Users\beata\source\repos\LargeNumbersCalculator\LargeNumbersCalculator\obj\Debug\netcoreapp3.1\LargeNumbersCalculator.genruntimeconfig.cache
+C:\Users\beata\source\repos\LargeNumbersCalculator\LargeNumbersCalculator\obj\Debug\netcoreapp3.1\LargeNumbersCalculator.csprojAssemblyReference.cache
